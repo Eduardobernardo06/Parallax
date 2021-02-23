@@ -112,3 +112,25 @@ opacity: .5;
     transform: translateY(-50%);
     opacity: 1;
 }
+.section-cta{
+    background-image: url(../images/home-bg3.jpg);
+    background-size: cover;
+    height: 500px;
+    color: white;
+    
+}
+
+.section-cta[type="email"]{
+    border-radius: 0;
+    background: rgba(255,255,255,.0);
+}
+.btn{
+    outline: none;
+    box-shadow: none:important;
+    border-radius: 0;
+}
+.btn-black{
+   color:white;
+   background: black;
+    
+}
