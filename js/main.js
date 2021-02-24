@@ -1,4 +1,6 @@
 (function($){
+    
+    $('.paroller').paroller()
     var contentWaypoint = function(){
         $('.element-animate').waypoint( function( direction ){
             console.log(direction);
