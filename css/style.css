@@ -140,3 +140,8 @@ opacity: .5;
    background: black;
     
 }
+.element-animate{
+    opacity: 0;
+    visibility: hidden;
+    
+}
